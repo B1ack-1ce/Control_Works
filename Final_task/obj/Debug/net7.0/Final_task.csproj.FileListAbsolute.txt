@@ -1,0 +1,15 @@
+C:\Users\Artem\Desktop\Control_test\Control_Works\Final_task\bin\Debug\net7.0\Final_task.exe
+C:\Users\Artem\Desktop\Control_test\Control_Works\Final_task\bin\Debug\net7.0\Final_task.deps.json
+C:\Users\Artem\Desktop\Control_test\Control_Works\Final_task\bin\Debug\net7.0\Final_task.runtimeconfig.json
+C:\Users\Artem\Desktop\Control_test\Control_Works\Final_task\bin\Debug\net7.0\Final_task.dll
+C:\Users\Artem\Desktop\Control_test\Control_Works\Final_task\bin\Debug\net7.0\Final_task.pdb
+C:\Users\Artem\Desktop\Control_test\Control_Works\Final_task\obj\Debug\net7.0\Final_task.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\Control_test\Control_Works\Final_task\obj\Debug\net7.0\Final_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\Desktop\Control_test\Control_Works\Final_task\obj\Debug\net7.0\Final_task.AssemblyInfoInputs.cache
+C:\Users\Artem\Desktop\Control_test\Control_Works\Final_task\obj\Debug\net7.0\Final_task.AssemblyInfo.cs
+C:\Users\Artem\Desktop\Control_test\Control_Works\Final_task\obj\Debug\net7.0\Final_task.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\Control_test\Control_Works\Final_task\obj\Debug\net7.0\Final_task.dll
+C:\Users\Artem\Desktop\Control_test\Control_Works\Final_task\obj\Debug\net7.0\refint\Final_task.dll
+C:\Users\Artem\Desktop\Control_test\Control_Works\Final_task\obj\Debug\net7.0\Final_task.pdb
+C:\Users\Artem\Desktop\Control_test\Control_Works\Final_task\obj\Debug\net7.0\Final_task.genruntimeconfig.cache
+C:\Users\Artem\Desktop\Control_test\Control_Works\Final_task\obj\Debug\net7.0\ref\Final_task.dll
